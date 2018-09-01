@@ -1,0 +1,9 @@
+C:\Users\Fernando\Documents\Universidad\Programacion Visual\cuentaBancaria27082018\cuentaBancaria27082018\bin\Debug\cuentaBancaria27082018.exe.config
+C:\Users\Fernando\Documents\Universidad\Programacion Visual\cuentaBancaria27082018\cuentaBancaria27082018\bin\Debug\cuentaBancaria27082018.exe
+C:\Users\Fernando\Documents\Universidad\Programacion Visual\cuentaBancaria27082018\cuentaBancaria27082018\bin\Debug\cuentaBancaria27082018.pdb
+C:\Users\Fernando\Documents\Universidad\Programacion Visual\cuentaBancaria27082018\cuentaBancaria27082018\obj\Debug\cuentaBancaria27082018.csprojResolveAssemblyReference.cache
+C:\Users\Fernando\Documents\Universidad\Programacion Visual\cuentaBancaria27082018\cuentaBancaria27082018\obj\Debug\cuentaBancaria27082018.Form1.resources
+C:\Users\Fernando\Documents\Universidad\Programacion Visual\cuentaBancaria27082018\cuentaBancaria27082018\obj\Debug\cuentaBancaria27082018.Properties.Resources.resources
+C:\Users\Fernando\Documents\Universidad\Programacion Visual\cuentaBancaria27082018\cuentaBancaria27082018\obj\Debug\cuentaBancaria27082018.csproj.GenerateResource.Cache
+C:\Users\Fernando\Documents\Universidad\Programacion Visual\cuentaBancaria27082018\cuentaBancaria27082018\obj\Debug\cuentaBancaria27082018.exe
+C:\Users\Fernando\Documents\Universidad\Programacion Visual\cuentaBancaria27082018\cuentaBancaria27082018\obj\Debug\cuentaBancaria27082018.pdb
